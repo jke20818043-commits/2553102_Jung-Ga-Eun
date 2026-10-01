@@ -329,13 +329,13 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.6, y: 1.4}
-  hurtBoxOffset: {x: 0, y: 1.35}
+  hurtBoxSize: {x: 3, y: 4}
+  hurtBoxOffset: {x: 0, y: 2}
   attack1BoxSize: {x: 3.54, y: 1.8}
   attack1BoxOffset: {x: -1.35, y: 0.8}
   attack2BoxSize: {x: 5.2, y: 2.4}
   attack2BoxOffset: {x: -2.6, y: 1.2}
-  hpDisplayHeightOverride: 3.43
+  hpDisplayHeightOverride: 3.8
   defaultFramesPerSecond: 8
   spriteRenderer: {fileID: 0}
   idleFrames:
