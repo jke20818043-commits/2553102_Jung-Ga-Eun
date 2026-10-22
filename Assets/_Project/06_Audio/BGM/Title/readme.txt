@@ -1,12 +1,12 @@
-타이틀 화면 BGM 넣는 곳
+출처 링크 : https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13386853&menuNo=200020
 
-음원 파일 하나를 이 폴더에 넣으면 됨 (이름/확장자 무관 - mp3, wav, ogg 다 됨).
-파일이 여러 개면 알파벳순 첫 번째만 쓰이고 경고가 뜨니, 하나만 남겨둘 것.
+<img id="wrtImg" src="https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=13386853&filePath=L2Rpc2sxL25ld2RhdGEvMjAyNi8wMy8wMi8zMWYwZTAyNzcwYzU5YmNhNjI1NTRlMWIxMDc0OGU1NjhiZGViYmQ2MTE3ZDgyNWMzODdmMjRlZTI0OTM2YWYw&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10002">
+<p style="font-size: 0.9rem;font-style: italic;">
+<span>
+title : <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13386853&menuNo=200020"> 국악 BGM #113</a>
+authr : <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13386853&menuNo=200020"> 주식회사 아이티앤</a>by
+site : <a href="https://gongu.copyright.or.kr/gongu/main/main.do">공유마당 저작권 위원회</a></span> <br>
+is licensed under
+<img src="https://gongu.copyright.or.kr/static/gongu/img/common/img_license21.png" alt="" class="img_cc">
 
-넣은 뒤 Unity에서 "Tools > Class Template > Add Background Music To Title
-Scene"을 실행하면 타이틀 씬의 BackgroundMusic 오브젝트에 자동으로 연결됨.
-볼륨은 타이틀 씬에서 BackgroundMusic 오브젝트의 AudioSource로 직접 조절
-가능 (BackgroundTest와 동일한 방식).
-
-소리를 어디서 구하는지는 아래 문서 참고.
-  https://github.com/hansung-game1/game-p-docs/blob/main/기본설명/07_사운드_구하기.md
+</p>
