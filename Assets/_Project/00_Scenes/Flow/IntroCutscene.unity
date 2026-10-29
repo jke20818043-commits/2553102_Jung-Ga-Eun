@@ -1246,14 +1246,16 @@ MonoBehaviour:
   videoImage: {fileID: 988111362}
   videoPlayer: {fileID: 988111361}
   slides:
-  - image: {fileID: 21300000, guid: 624c19efac884684a8a76a1472be91b4, type: 3}
-    video: {fileID: 0}
-  - image: {fileID: 21300000, guid: 8c208f2df74af84449afe5c069b98520, type: 3}
-    video: {fileID: 0}
-  - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
-    video: {fileID: 0}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 8a3dab45045ab804eaace79ac6829ab3, type: 3}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 921c018e8042e4d419026d1ff97ba25d, type: 3}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 3850d08a389071749b040dddd5d9b179, type: 3}
   - image: {fileID: 0}
     video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 075416054a62a85489c8445396febb9c, type: 3}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
