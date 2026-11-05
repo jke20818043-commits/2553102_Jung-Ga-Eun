@@ -434,16 +434,20 @@ MonoBehaviour:
   videoImage: {fileID: 2003928227}
   videoPlayer: {fileID: 2003928226}
   slides:
-  - image: {fileID: 21300000, guid: 216b32428f0172441b33a51af1cbb20d, type: 3}
-    video: {fileID: 0}
-  - image: {fileID: 21300000, guid: d5a03030c42c2c143bda650ffd9f85b3, type: 3}
-    video: {fileID: 0}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 0fcb91f5be84b5a499cbc8884960f601, type: 3}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 595c8019ee74e684192db7ba3b1717da, type: 3}
   - image: {fileID: 21300000, guid: e215a7be7857a9a448565da7ab16a680, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 21300000, guid: bd4e487596346b540a82b16529b6e54e, type: 3}
-    video: {fileID: 0}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: 32a33f427128ea74198474300a369e67, type: 3}
   - image: {fileID: 0}
     video: {fileID: 32900000, guid: 60ff7083d12c0a74780e85292f4276f1, type: 3}
+  - image: {fileID: 21300000, guid: 35913e8f8faac4c4ba7fd2e1098dde34, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b33bde05753f8d34887917c9dde6020e, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 2032162175}
   nextSceneName: Title
 --- !u!4 &420365790
